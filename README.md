@@ -1,9 +1,8 @@
-### Hi there 👋
+Olá, Sou Denilson Ferreira de Araujo. <br>
+Estou estudando fazendo técnico de desenvolvimento de sistemas no Senai (Full stack) (Início Jan/2023, Dez/2024).<br>
+Pretendo atuar na área brevemente.
 
-<!--
-**Denilsonaraujoprogramador/denilsonaraujoprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?denilsonaraujoprogramador=anuraghazra&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
